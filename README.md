@@ -13,11 +13,18 @@ O protótipo foi desenvolvido em duas etapas:
 Os dados são enviados por **ThingSpeak**.
  
 ---
- 
+
+Codigo ino
+ [cp_arduino-1.zip](https://github.com/user-attachments/files/22128297/cp_arduino-1.zip)
+
 ## 🚀 Parte 1 – Simulação no Wokwi (DHT22 + LDR)
+
+Foto 
  
 🔗 [Link Wokwi]([https://wokwi.com/](https://wokwi.com/projects/441077412366481409))  
  
+![Image](https://github.com/user-attachments/assets/5dd41ecc-9536-449d-9d99-bc8119405094) 
+
 🔗 [Thingspeak Channel]((https://thingspeak.mathworks.com/channels/3058720))
 
 🔗 [Youtube](https://youtu.be/AKgNLOY8nAw?si=oMOQDENU1Ub3mvqR)  
