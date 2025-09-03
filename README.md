@@ -25,7 +25,7 @@ Foto
  
 ![Image](https://github.com/user-attachments/assets/5dd41ecc-9536-449d-9d99-bc8119405094) 
 
-🔗 [Thingspeak Channel]((https://thingspeak.mathworks.com/channels/3058720))
+🔗 [Thingspeak Channel](https://thingspeak.mathworks.com/channels/3058720)
 
 🔗 [Youtube](https://youtu.be/AKgNLOY8nAw?si=oMOQDENU1Ub3mvqR)  
 
