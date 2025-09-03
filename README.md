@@ -21,7 +21,7 @@ Codigo ino
 
 Foto 
  
-🔗 [Link Wokwi]([https://wokwi.com/](https://wokwi.com/projects/441077412366481409))  
+🔗 [Link Wokwi](https://wokwi.com/](https://wokwi.com/projects/441077412366481409))  
  
 ![Image](https://github.com/user-attachments/assets/5dd41ecc-9536-449d-9d99-bc8119405094) 
 
